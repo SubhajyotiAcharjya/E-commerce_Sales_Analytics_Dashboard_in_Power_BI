@@ -33,4 +33,4 @@ This project showcases an **interactive E-commerce sales dashboard** built in **
 
 ## 📊 Dashboard Preview
 
-("<img width="1323" height="741" alt="power bi" src="https://github.com/user-attachments/assets/72435b4e-6403-4f23-b268-4bd400478cda" />")
+<img width="1323" height="741" alt="power bi" src="https://github.com/user-attachments/assets/72435b4e-6403-4f23-b268-4bd400478cda" />
