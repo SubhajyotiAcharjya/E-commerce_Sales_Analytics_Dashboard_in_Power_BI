@@ -33,5 +33,7 @@ This project showcases an **interactive E-commerce sales dashboard** built in **
 
 ## 📊 Dashboard Preview
 
-<img src="Screenshots/powerbi.png" alt="Power BI screenshot" width="700">
+<img width="1236" height="693" alt="powerbi" src="https://github.com/user-attachments/assets/5e5e1073-d864-4aa1-9105-7ce03ca36b29" />
+
+
 
